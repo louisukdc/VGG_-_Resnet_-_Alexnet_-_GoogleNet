@@ -3,4 +3,7 @@
 3. Visualisasi Dataset
 4. Cek Duplikat
 5. Inisialisasi Model / Hyperparameter Tuning
-6. Training Model & Evaluasi, Cek Hasil Prediksi yang Salah, Testing Model yang sudah di Save, Mencoba Model dengan Gambar Baru
+6. Training Model & Evaluasi
+7. Cek Hasil Prediksi yang Salah
+8. Testing Model yang sudah di Save
+9. Mencoba Model dengan Gambar Baru
